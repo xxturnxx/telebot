@@ -1,3 +1,7 @@
+I created a new version before realising I should of forked it.. Apologies, please go here to see my fork
+https://github.com/brownsmart/telegram-plexbot
+
+
 # telebot
 Telegram Bot starter kit. Very easy to install with Google App Engine.
 
